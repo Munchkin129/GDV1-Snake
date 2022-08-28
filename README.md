@@ -1,7 +1,7 @@
 # Grafische Datenverarbeitung 1 - Snake
 #### Projekt von [Dirk Hofmann](https://git.ai.fh-erfurt.de/di1846ho)
 
-[Demo-Video GDV1-Snake](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Demo-Video GDV1-Snake](https://technischeunivers049-my.sharepoint.com/:v:/g/personal/dirk_hofmann_fhe_technischeunivers049_onmicrosoft_com/EV6PrlxXWthLiX2Co_mA9lcBVB8g6PDa43KTXEBpmKIfGQ?e=26edkX)
 
 [Ausführbare Debug-Exe-Variante](https://technischeunivers049-my.sharepoint.com/:f:/g/personal/dirk_hofmann_fhe_technischeunivers049_onmicrosoft_com/Eq7JBuR3n4VCuponG4sIbFYBoqrg8OL6AOPycBXv6e7-sA?e=t3EsGq)
 
