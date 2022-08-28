@@ -46,7 +46,7 @@ So viel Nahrung wie möglich aufsammeln ohne sich selbst oder die Wand zu berüh
 
 Insgesamt kam es bei den verschiedenen Phaser der Entwicklung zu verschiedenen Herausforderungen, für die aber immer eine Lösung gefunden wurde.
 
-Die größte Hürde zu Beginn war es, eine geeignete Projektstruktur anzulegen bei der auch YoshiX funktioniert.
+Die größte Hürde zu Beginn war es, eine geeignete Projektstruktur anzulegen bei der auch YoshiX funktioniert. Ich habe deshalb die Projektstruktur der Übungen übernommen.
 
 Weiter war dies das erste Projekt in dem ich mit Vectoren gearbeitet habe, jedoch haben sich diese als sehr nützlich und leicht zu bedienen herausgestellt. 
 
