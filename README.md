@@ -3,7 +3,7 @@
 
 [Demo-Video GDV1-Snake](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[Ausführbare Debug-Exe-Variante](https://technischeunivers049-my.sharepoint.com/:u:/g/personal/dirk_hofmann_fhe_technischeunivers049_onmicrosoft_com/EcQnbJdmKYZEk4zhm7RfqDkBARGlE6huvwRi9SBPpW7Q5g?e=wsuks8)
+[Ausführbare Debug-Exe-Variante](https://technischeunivers049-my.sharepoint.com/:f:/g/personal/dirk_hofmann_fhe_technischeunivers049_onmicrosoft_com/Eq7JBuR3n4VCuponG4sIbFYBoqrg8OL6AOPycBXv6e7-sA?e=t3EsGq)
 
 ## Allgemein
 Im Rahmen des Moduls Grafische Datenverarbeitung 1 habe ich mich als Abschlussprojekt für das Spiel Snake entschieden. Ich habe das "klassische" Snake mittels C++ programmiert und mit der YoshiX-Bibliothek anzeigen lassen.
