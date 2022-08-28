@@ -50,7 +50,7 @@ Die größte Hürde zu Beginn war es, eine geeignete Projektstruktur anzulegen b
 
 Weiter war dies das erste Projekt in dem ich mit Vectoren gearbeitet habe, jedoch haben sich diese als sehr nützlich und leicht zu bedienen herausgestellt. 
 
-Während des Projekts musste war ich manchmal ratlos, warum meine angedachte Logik nicht funktioniert. Meistens war die Logik richtig und der Fehler lag in bei mir selbst geschriebenen Klassen in Form eines einfaches Tippfehlers. Diese Fehler waren sehr ärgerlich.
+Während des Projekts war ich manchmal ratlos, warum meine angedachte Logik nicht funktioniert. Meistens war die Logik richtig und der Fehler lag in bei mir selbst geschriebenen Klassen in Form eines einfaches Tippfehlers. Diese Fehler waren sehr ärgerlich.
 
 Eine weitere Herausforderung war die Beschaffung von geeignetes Texturen. Ich habe mich daher entschlossen diese selbst mit GIMP anzufertigen oder für Wand und Boden eine Textur aus der einer Übung  zu verwenden.
 
