@@ -125,8 +125,6 @@ public:
 
 private:
 
-	void OnCreateMesh(BHandle* _ppMesh, BHandle _pTexture);
-
 	void CreateCube(BHandle* _ppMesh, BHandle _pTexture, float _EdgeLength);
 
 	void CreateGameOverMesh(BHandle* _ppMesh, BHandle _pTexture, float _Height, float _AspectRatio);
