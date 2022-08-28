@@ -42,6 +42,12 @@ So viel Nahrung wie möglich aufsammeln ohne sich selbst oder die Wand zu berüh
 - Repository klonen (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - In Visual Studio 2022 öffnen und Debug ausführen
 
+### Struktur
+
+Im Ordner /project befindet sich die .sln
+
+Die Codedateien befinden sich unter /project/app
+
 ## Herausforderungen
 
 Insgesamt kam es bei den verschiedenen Phaser der Entwicklung zu verschiedenen Herausforderungen, für die aber immer eine Lösung gefunden wurde.
